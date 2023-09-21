@@ -1,0 +1,15 @@
+
+
+@font-face {
+    font-family: 'Astro';
+    src: url(Astro.ttf);
+}
+
+/*in order to use that*/
+h1 {
+    font-family: 'Astro';
+    font-weight: 200;
+    color: #0ccac4;
+
+    
+}
